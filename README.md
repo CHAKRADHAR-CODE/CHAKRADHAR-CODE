@@ -1,74 +1,32 @@
-# 👋 Hi, I'm Chakradhar Chowdary Gunnam
+# Chakradhar Chowdary Gunnam
 
-🎓 **AI & Machine Learning Student**  
-💻 **C++ | Python | DSA | MySQL Developer**  
-🚀 **Fresher | Passionate about building real-world projects**
+**Software Engineer | Backend & Problem Solving**
 
----
-
-## 🧑‍💻 About Me
-
-I am a **motivated fresher** with a strong foundation in **Data Structures, Algorithms, and Software Development**.  
-I enjoy solving problems, building projects, and continuously improving my technical skills.
-
-I am actively looking for an **entry-level / internship / trainee role** where I can:
-- Learn from experienced developers  
-- Contribute to real-world projects  
-- Grow as a software engineer  
+I build reliable, maintainable software with a strong focus on **clean code, performance, and correctness**.  
+Experienced in designing end-to-end solutions, applying data structures effectively, and working with databases and collaborative Git workflows.
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Languages:** C, C++, Python, TypeScript  
-- **Core Subjects:** Data Structures & Algorithms, DBMS, OOPs  
-- **Databases:** MySQL  
-- **Tools & Platforms:** Git, GitHub, VS Code  
-- **Problem Solving:** LeetCode, GeeksforGeeks  
+## Core Skills
+**Languages:** C++, Python, Java, C, SQL  
+**Backend & Data:** MySQL, MongoDB, Query Optimization  
+**Web:** HTML, CSS, JavaScript, TypeScript  
+**Tools:** Git, Linux, VS Code, Power BI
 
 ---
 
-## 📂 Featured Projects
-
-### 📌 Library Seat Reservation System
-- Built using **TypeScript**
-- Focused on real-world problem solving
-- Clean logic and structured code  
-
-### 📌 Portfolio Website
-- Personal developer portfolio
-- Showcases skills, projects, and contact details  
-
-### 📌 DSA Practice Repositories
-- **LeetCode Solutions (C++)**
-- **GeeksforGeeks Solutions (C++)**
-- Well-structured and readable code  
+## Selected Work
+- **Library Seat Reservation System** – Scalable real-time booking system with database-driven availability  
+- **AI-Based Word Game** – Optimized Python–MySQL application with structured game logic
 
 ---
 
-## 📈 GitHub Activity
-
-- Regular problem solving and commits  
-- Focused on consistency and clean code  
-- Always improving code quality and logic  
-
----
-
-## 🎯 Career Objective
-
-To secure a **Software Developer / AI-ML / Internship role** where I can apply my skills, gain industry experience, and grow professionally while contributing value to the organization.
+## Engineering Strengths
+- Strong DSA & algorithmic thinking (1000+ problems solved)
+- Writes readable, efficient, and testable code
+- Comfortable owning features end-to-end
 
 ---
 
-## 🤝 Open to Opportunities
-
-✅ Fresher Roles  
-✅ Internships  
-✅ Entry-Level Developer Positions  
-
-📫 **Email:** chakradhar.gunnam@gmail.com  
-🌐 **GitHub:** https://github.com/CHAKRADHAR-CODE
-
----
-
-⭐ *Thank you for visiting my profile. I am eager to learn, build, and grow with your team!*  
+📫 **chakradhar.gunnam@gmail.com**  
+💼 **LinkedIn | GitHub**
