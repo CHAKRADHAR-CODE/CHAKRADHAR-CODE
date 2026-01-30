@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chakradhar Chowdary G
+# 👋 Hi, I'm Chakradhar Chowdary Gunnam
 
 🎓 **AI & Machine Learning Student**  
 💻 **C++ | Python | DSA | MySQL Developer**  
