@@ -28,5 +28,7 @@ Experienced in designing end-to-end solutions, applying data structures effectiv
 
 ---
 
-📫 **chakradhar.gunnam@gmail.com**  
-💼 **LinkedIn | GitHub**
+🔗 **GitHub:** https://github.com/CHAKRADHAR-CODE  
+💼 **LinkedIn:** https://www.linkedin.com/in/chakradhar-chowdary-gunnam-910070333/  
+🌐 **Portfolio:** https://chakradhar-portfolio-beta.vercel.app/  
+📫 **Email:** chakradhar.gunnam@gmail.com
